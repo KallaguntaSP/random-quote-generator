@@ -10,3 +10,5 @@ URL - https://api.quotable.io/random
 
 By clicking on New Quote button every time a new quote is genearated
 
+# Preview-site
+ Live At - https://kallaguntasp.github.io/random-quote-generator/
